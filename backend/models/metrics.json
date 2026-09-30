@@ -1,0 +1,78 @@
+{
+  "validation": {
+    "proposed": {
+      "mae": 0.077,
+      "rmse": 0.4,
+      "r2": 0.958,
+      "bias": -0.002,
+      "correlation": 0.979,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "csi": 0.0,
+      "threshold_mm": 25.0
+    },
+    "baseline": {
+      "mae": 0.081,
+      "rmse": 0.403,
+      "r2": 0.958,
+      "bias": 0.017,
+      "correlation": 0.979,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "csi": 0.0,
+      "threshold_mm": 25.0
+    }
+  },
+  "test": {
+    "proposed": {
+      "mae": 2.885,
+      "rmse": 5.517,
+      "r2": 0.953,
+      "bias": -0.127,
+      "correlation": 0.976,
+      "precision": 0.92,
+      "recall": 0.942,
+      "f1": 0.931,
+      "csi": 0.871,
+      "threshold_mm": 25.0
+    },
+    "baseline": {
+      "mae": 3.333,
+      "rmse": 6.081,
+      "r2": 0.942,
+      "bias": 0.127,
+      "correlation": 0.971,
+      "precision": 0.904,
+      "recall": 0.934,
+      "f1": 0.919,
+      "csi": 0.849,
+      "threshold_mm": 25.0
+    }
+  },
+  "meta": {
+    "model": "random_forest",
+    "data_source": "synthetic_demo",
+    "label": "Prototype metrics on synthetic demo data. Not real-world accuracy.",
+    "split": {
+      "train": [
+        "2024-06-01",
+        "2026-01-17"
+      ],
+      "validation": [
+        "2026-01-18",
+        "2026-05-25"
+      ],
+      "test": [
+        "2026-05-26",
+        "2026-09-30"
+      ]
+    },
+    "rows": {
+      "train": 9536,
+      "validation": 2048,
+      "test": 2048
+    }
+  }
+}

@@ -1,0 +1,674 @@
+[
+ {
+  "district": "Ahmednagar",
+  "division": "Nashik",
+  "headquarters": "Ahmednagar",
+  "lat": 19.09,
+  "lon": 74.74,
+  "talukas": [
+   "Ahmednagar",
+   "Akole",
+   "Jamkhed",
+   "Karjat",
+   "Kopargaon",
+   "Nevasa",
+   "Parner",
+   "Pathardi",
+   "Rahata",
+   "Rahuri",
+   "Sangamner",
+   "Shevgaon",
+   "Shrirampur"
+  ]
+ },
+ {
+  "district": "Akola",
+  "division": "Amravati",
+  "headquarters": "Akola",
+  "lat": 20.71,
+  "lon": 77.0,
+  "talukas": [
+   "Akola",
+   "Akot",
+   "Balapur",
+   "Barshitakli",
+   "Murtajapur",
+   "Patur",
+   "Telhara"
+  ]
+ },
+ {
+  "district": "Amravati",
+  "division": "Amravati",
+  "headquarters": "Amravati",
+  "lat": 20.93,
+  "lon": 77.75,
+  "talukas": [
+   "Achalpur",
+   "Amravati",
+   "Anjangaon-Surji",
+   "Bhatkuli",
+   "Chandur",
+   "Chandurbazar",
+   "Chikhaldara",
+   "Daryapur",
+   "Dhamangaon",
+   "Dharni",
+   "Morshi",
+   "Nandgaon Khandeshwar",
+   "Tiosa",
+   "Warud"
+  ]
+ },
+ {
+  "district": "Aurangabad",
+  "division": "Aurangabad",
+  "headquarters": "Chhatrapati Sambhajinagar",
+  "lat": 19.88,
+  "lon": 75.34,
+  "talukas": [
+   "Aurangabad",
+   "Gangapur",
+   "Kannad",
+   "Khuldabad",
+   "Paithan",
+   "Phulambri",
+   "Sillod",
+   "Soegaon",
+   "Vaijapur"
+  ]
+ },
+ {
+  "district": "Beed",
+  "division": "Aurangabad",
+  "headquarters": "Beed",
+  "lat": 18.99,
+  "lon": 75.76,
+  "talukas": [
+   "Ambajogai",
+   "Ambejogai",
+   "Ashti",
+   "Beed",
+   "Dharur",
+   "Georai",
+   "Kaij",
+   "Parli",
+   "Patoda",
+   "Shirur-Kasar",
+   "Wadwani"
+  ]
+ },
+ {
+  "district": "Bhandara",
+  "division": "Nagpur",
+  "headquarters": "Bhandara",
+  "lat": 21.17,
+  "lon": 79.65,
+  "talukas": [
+   "Bhandara",
+   "Lakhandur",
+   "Lakhani",
+   "Mohadi",
+   "Pauni",
+   "Sakoli",
+   "Tumsar"
+  ]
+ },
+ {
+  "district": "Buldhana",
+  "division": "Amravati",
+  "headquarters": "Buldhana",
+  "lat": 20.53,
+  "lon": 76.18,
+  "talukas": [
+   "Buldhana",
+   "Chikhli",
+   "Deulgaon Raja",
+   "Jalgaon Jamod",
+   "Khamgaon",
+   "Lonar",
+   "Malkapur",
+   "Mehkar",
+   "Motala",
+   "Nandura",
+   "Sangrampur",
+   "Shegaon",
+   "Sindkhed Raja"
+  ]
+ },
+ {
+  "district": "Chandrapur",
+  "division": "Nagpur",
+  "headquarters": "Chandrapur",
+  "lat": 19.95,
+  "lon": 79.3,
+  "talukas": [
+   "Ballarpur",
+   "Bhadravati",
+   "Bramhapuri",
+   "Chandrapur",
+   "Chimur",
+   "Gondpimpri",
+   "Jiwati",
+   "Korpana",
+   "Mul",
+   "Nagbhid",
+   "Pombhurna",
+   "Rajura",
+   "Saoli",
+   "Sindewahi",
+   "Warora"
+  ]
+ },
+ {
+  "district": "Dhule",
+  "division": "Nashik",
+  "headquarters": "Dhule",
+  "lat": 20.9,
+  "lon": 74.78,
+  "talukas": [
+   "Dhule",
+   "Sakri",
+   "Shirpur",
+   "Sindkheda"
+  ]
+ },
+ {
+  "district": "Gadchiroli",
+  "division": "Nagpur",
+  "headquarters": "Gadchiroli",
+  "lat": 20.19,
+  "lon": 80.0,
+  "talukas": [
+   "Aheri",
+   "Armori",
+   "Bhamragad",
+   "Chamorshi",
+   "Desaiganj",
+   "Dhanora",
+   "Etapalli",
+   "Gadchiroli",
+   "Korchi",
+   "Kurkheda",
+   "Mulchera",
+   "Sironcha"
+  ]
+ },
+ {
+  "district": "Gondia",
+  "division": "Nagpur",
+  "headquarters": "Gondia",
+  "lat": 21.46,
+  "lon": 80.19,
+  "talukas": [
+   "Arjuni Morgaon",
+   "Deori",
+   "Gondia",
+   "Goregaon",
+   "Sadak-Arjuni",
+   "Salekasa",
+   "Tiroda"
+  ]
+ },
+ {
+  "district": "Hingoli",
+  "division": "Aurangabad",
+  "headquarters": "Hingoli",
+  "lat": 19.72,
+  "lon": 77.15,
+  "talukas": [
+   "Aundha Nagnath",
+   "Basmath",
+   "Hingoli",
+   "Kalamnuri",
+   "Sengaon"
+  ]
+ },
+ {
+  "district": "Jalgaon",
+  "division": "Nashik",
+  "headquarters": "Jalgaon",
+  "lat": 21.01,
+  "lon": 75.56,
+  "talukas": [
+   "Amalner",
+   "Bhadgaon",
+   "Bhusawal",
+   "Bodwad",
+   "Chalisgaon",
+   "Chopda",
+   "Dharangaon",
+   "Erandol",
+   "Jalgaon",
+   "Jamner",
+   "Muktainagar",
+   "Pachora",
+   "Parola",
+   "Raver",
+   "Yawal"
+  ]
+ },
+ {
+  "district": "Jalna",
+  "division": "Aurangabad",
+  "headquarters": "Jalna",
+  "lat": 19.84,
+  "lon": 75.88,
+  "talukas": [
+   "Badnapur",
+   "Bhokardan",
+   "Ghansawangi",
+   "Jafrabad",
+   "Jalna",
+   "Mantha",
+   "Partur"
+  ]
+ },
+ {
+  "district": "Kolhapur",
+  "division": "Pune",
+  "headquarters": "Kolhapur",
+  "lat": 16.7,
+  "lon": 74.24,
+  "talukas": [
+   "Ajra",
+   "Bhudargad",
+   "Chandgad",
+   "Gadhinglaj",
+   "Gaganbawada",
+   "Ichalkaranji",
+   "Kagal",
+   "Karvir",
+   "Panhala",
+   "Radhanagari",
+   "Shahuwadi",
+   "Shirol"
+  ]
+ },
+ {
+  "district": "Latur",
+  "division": "Aurangabad",
+  "headquarters": "Latur",
+  "lat": 18.4,
+  "lon": 76.58,
+  "talukas": [
+   "Ahmedpur",
+   "Ausa",
+   "Ausa-Renapur",
+   "Chakur",
+   "Deoni",
+   "Jalkot",
+   "Latur",
+   "Nilanga",
+   "Shirur Anantpal",
+   "Udgir"
+  ]
+ },
+ {
+  "district": "Mumbai City",
+  "division": "Konkan",
+  "headquarters": "Mumbai",
+  "lat": 18.94,
+  "lon": 72.84,
+  "talukas": [
+   "Mumbai City"
+  ]
+ },
+ {
+  "district": "Mumbai Suburban",
+  "division": "Konkan",
+  "headquarters": "Bandra",
+  "lat": 19.06,
+  "lon": 72.87,
+  "talukas": [
+   "Andheri",
+   "Bandra",
+   "Borivali"
+  ]
+ },
+ {
+  "district": "Nagpur",
+  "division": "Nagpur",
+  "headquarters": "Nagpur",
+  "lat": 21.15,
+  "lon": 79.09,
+  "talukas": [
+   "Bhiwapur",
+   "Hingna",
+   "Kalameshwar",
+   "Kamptee",
+   "Katol",
+   "Kuhi",
+   "Mouda",
+   "Nagpur",
+   "Nagpur Rural",
+   "Narkhed",
+   "Parseoni",
+   "Ramtek",
+   "Savner",
+   "Umred"
+  ]
+ },
+ {
+  "district": "Nanded",
+  "division": "Aurangabad",
+  "headquarters": "Nanded",
+  "lat": 19.15,
+  "lon": 77.32,
+  "talukas": [
+   "Ardhapur",
+   "Bhokar",
+   "Biloli",
+   "Deglur",
+   "Dharmabad",
+   "Hadgaon",
+   "Himayatnagar",
+   "Kandhar",
+   "Kinwat",
+   "Loha",
+   "Mahur",
+   "Mudkhed",
+   "Mukhed",
+   "Naigaon",
+   "Nanded",
+   "Umri"
+  ]
+ },
+ {
+  "district": "Nandurbar",
+  "division": "Nashik",
+  "headquarters": "Nandurbar",
+  "lat": 21.37,
+  "lon": 74.24,
+  "talukas": [
+   "Akkalkuwa",
+   "Dhadgaon",
+   "Nandurbar",
+   "Navapur",
+   "Shahada",
+   "Talode"
+  ]
+ },
+ {
+  "district": "Nashik",
+  "division": "Nashik",
+  "headquarters": "Nashik",
+  "lat": 20.0,
+  "lon": 73.79,
+  "talukas": [
+   "Baglan",
+   "Chandwad",
+   "Deola",
+   "Dindori",
+   "Igatpuri",
+   "Kalwan",
+   "Malegaon",
+   "Nandgaon",
+   "Nashik",
+   "Niphad",
+   "Peth",
+   "Sinnar",
+   "Surgana",
+   "Trimbakeshwar",
+   "Yeola"
+  ]
+ },
+ {
+  "district": "Osmanabad",
+  "division": "Aurangabad",
+  "headquarters": "Dharashiv",
+  "lat": 18.19,
+  "lon": 76.04,
+  "talukas": [
+   "Bhum",
+   "Kalamb",
+   "Osmanabad",
+   "Paranda",
+   "Tuljapur",
+   "Umarga"
+  ]
+ },
+ {
+  "district": "Palghar",
+  "division": "Konkan",
+  "headquarters": "Palghar",
+  "lat": 19.7,
+  "lon": 72.77,
+  "talukas": [
+   "Dahanu",
+   "Jawhar",
+   "Mokhada",
+   "Palghar",
+   "Talasari",
+   "Vada",
+   "Vasai",
+   "Vikramgad"
+  ]
+ },
+ {
+  "district": "Parbhani",
+  "division": "Aurangabad",
+  "headquarters": "Parbhani",
+  "lat": 19.27,
+  "lon": 76.77,
+  "talukas": [
+   "Gangakhed",
+   "Jintur",
+   "Manwath",
+   "Palam",
+   "Parbhani",
+   "Pathri",
+   "Purna",
+   "Sailu",
+   "Sonpeth"
+  ]
+ },
+ {
+  "district": "Pune",
+  "division": "Pune",
+  "headquarters": "Pune",
+  "lat": 18.52,
+  "lon": 73.86,
+  "talukas": [
+   "Ambegaon",
+   "Baramati",
+   "Bhor",
+   "Daund",
+   "Haveli",
+   "Indapur",
+   "Junnar",
+   "Khed",
+   "Maval",
+   "Mulshi",
+   "Shirur",
+   "Velhe"
+  ]
+ },
+ {
+  "district": "Raigad",
+  "division": "Konkan",
+  "headquarters": "Alibag",
+  "lat": 18.64,
+  "lon": 72.87,
+  "talukas": [
+   "Alibag",
+   "Alibaug",
+   "Karjat",
+   "Khalapur",
+   "Mahad",
+   "Mangaon",
+   "Mhasala",
+   "Murud",
+   "Panvel",
+   "Poladpur",
+   "Roha",
+   "Shrivardhan",
+   "Sudhagad-Pali",
+   "Tala",
+   "Uran"
+  ]
+ },
+ {
+  "district": "Ratnagiri",
+  "division": "Konkan",
+  "headquarters": "Ratnagiri",
+  "lat": 16.99,
+  "lon": 73.31,
+  "talukas": [
+   "Chiplun",
+   "Dapoli",
+   "Guhagar",
+   "Khed",
+   "Lanja",
+   "Mandangad",
+   "Rajapur",
+   "Ratnagiri",
+   "Sangameshwar"
+  ]
+ },
+ {
+  "district": "Sangli",
+  "division": "Pune",
+  "headquarters": "Sangli",
+  "lat": 16.85,
+  "lon": 74.57,
+  "talukas": [
+   "Atpadi",
+   "Jat",
+   "Kadegaon",
+   "Kavathemahankal",
+   "Khanapur",
+   "Miraj",
+   "Palus",
+   "Shirala",
+   "Tasgaon",
+   "Walwa"
+  ]
+ },
+ {
+  "district": "Satara",
+  "division": "Pune",
+  "headquarters": "Satara",
+  "lat": 17.69,
+  "lon": 74.0,
+  "talukas": [
+   "Jaoli",
+   "Karad",
+   "Khandala",
+   "Khatav",
+   "Koregaon",
+   "Maan",
+   "Mahabaleshwar",
+   "Phaltan",
+   "Satara",
+   "Wai"
+  ]
+ },
+ {
+  "district": "Sindhudurg",
+  "division": "Konkan",
+  "headquarters": "Sindhudurgnagari",
+  "lat": 16.14,
+  "lon": 73.68,
+  "talukas": [
+   "Devgad",
+   "Dodamarg",
+   "Kankavli",
+   "Kudal",
+   "Malwan",
+   "Sawantwadi",
+   "Vaibhavwadi",
+   "Vengurla"
+  ]
+ },
+ {
+  "district": "Solapur",
+  "division": "Pune",
+  "headquarters": "Solapur",
+  "lat": 17.66,
+  "lon": 75.91,
+  "talukas": [
+   "Akkalkot",
+   "Karmala",
+   "Kurduwadi",
+   "Malshiras",
+   "Mangalvedhe",
+   "Mohol",
+   "Pandharpur",
+   "Solapur North",
+   "Solapur South"
+  ]
+ },
+ {
+  "district": "Thane",
+  "division": "Konkan",
+  "headquarters": "Thane",
+  "lat": 19.22,
+  "lon": 72.98,
+  "talukas": [
+   "Ambarnath",
+   "Bhiwandi",
+   "Kalyan",
+   "Murbad",
+   "Thane",
+   "Ulhasnagar"
+  ]
+ },
+ {
+  "district": "Wardha",
+  "division": "Nagpur",
+  "headquarters": "Wardha",
+  "lat": 20.75,
+  "lon": 78.6,
+  "talukas": [
+   "Arvi",
+   "Ashti",
+   "Deoli",
+   "Hinganghat",
+   "Karanja",
+   "Samudrapur",
+   "Seloo",
+   "Wardha"
+  ]
+ },
+ {
+  "district": "Washim",
+  "division": "Amravati",
+  "headquarters": "Washim",
+  "lat": 20.11,
+  "lon": 77.13,
+  "talukas": [
+   "Karanja",
+   "Malegaon",
+   "Mangrulpir",
+   "Manora",
+   "Risod",
+   "Washim"
+  ]
+ },
+ {
+  "district": "Yavatmal",
+  "division": "Amravati",
+  "headquarters": "Yavatmal",
+  "lat": 20.39,
+  "lon": 78.13,
+  "talukas": [
+   "Arni",
+   "Babhulgaon",
+   "Darwha",
+   "Digras",
+   "Ghatanji",
+   "Kalamb",
+   "Kelapur",
+   "Mahagaon",
+   "Maregaon",
+   "Ner",
+   "Pusad",
+   "Ralegaon",
+   "Umarkhed",
+   "Wani",
+   "Yavatmal",
+   "Zari Jamani"
+  ]
+ }
+]
